@@ -2,9 +2,16 @@
 2 new line git_1
 3 new new line git_1
 4 new new line git_1
+<<<<<<< Updated upstream
 5 folder22
 6 folder22
 7
 8
+=======
+5
+6
+7 my change
+8 my change
+>>>>>>> Stashed changes
 9
 10
